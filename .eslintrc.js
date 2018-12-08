@@ -22,6 +22,7 @@ module.exports = {
     }
   },
   "rules": {
+    "linebreak-style": ["error", "windows"],
     "arrow-parens": [
       "error",
       "as-needed"
